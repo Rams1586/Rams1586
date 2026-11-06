@@ -1,10 +1,10 @@
 # Hi, I'm Dhikshith Ram Poshala 👋
 
-**B.E. CSE (AIML) student, St Mary's Engineering College, Hyderabad (2023–2027)**
-Aspiring AIML / data analyst, building full-stack web applications with Python, React, and Node.js.
+**BTech CSE (AIML) student, St Mary's Engineering College, Hyderabad (2023–2027)**
+Aspiring full-stack developer, building full-stack web applications with Python, React, and Node.js.
 
 - 📍 Hyderabad, India
-- 💼 Open to internships — Data Analyst, AIML, Full-Stack Developer, Research Executive
+- 💼 Open to internships — Full-Stack Developer, Data Analyst, AIML, Research Executive
 - 🔗 LinkedIn: https://www.linkedin.com/in/poshala-dhikshith-ram-a422492b2
 - 📫 Email: deekshithramposhala@gmail.com
 
@@ -45,5 +45,4 @@ Other project work (described in my resume; code not public): **Acquire OS AI** 
 
 ## Currently working on
 
-- Building a data-analysis project to go with my full-stack work — Python, SQL, and Excel dashboards.
-- Improving these repos with proper READMEs, run instructions, and clean project structure.
+- Open to Full-Stack Developer Intern roles in Hyderabad (on-site, hybrid or remote).
